@@ -1,0 +1,15 @@
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\GeekBrains5Seminar.csproj.AssemblyReference.cache
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\GeekBrains5Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\GeekBrains5Seminar.AssemblyInfoInputs.cache
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\GeekBrains5Seminar.AssemblyInfo.cs
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\GeekBrains5Seminar.csproj.CoreCompileInputs.cache
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\bin\Debug\net6.0\GeekBrains5Seminar.exe
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\bin\Debug\net6.0\GeekBrains5Seminar.deps.json
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\bin\Debug\net6.0\GeekBrains5Seminar.runtimeconfig.json
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\bin\Debug\net6.0\GeekBrains5Seminar.dll
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\bin\Debug\net6.0\GeekBrains5Seminar.pdb
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\GeekBrains5Seminar.dll
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\refint\GeekBrains5Seminar.dll
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\GeekBrains5Seminar.pdb
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\GeekBrains5Seminar.genruntimeconfig.cache
+C:\Users\Дэнчик\Desktop\GeekBrains5Seminar\obj\Debug\net6.0\ref\GeekBrains5Seminar.dll
